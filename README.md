@@ -2,6 +2,8 @@
 
 Code for the manuscript *Adversarial Robustness of Process Fault Classifiers: Analyzer-Calibrated Budgets and Feasibility Bounds on Tennessee Eastman Composition Data* 
 
+https://doi.org/10.5281/zenodo.24257593
+
 ## Layout
 - `core/` – data generation (Braatz TEP simulator, commit 9a6c8e5), ILR transform, classifier, PGD attack, training, earlier hyperparameter search (qNEHVI).
 - `analysis/` – scripts behind every table, figure and number in the paper (run from inside `analysis/`).
