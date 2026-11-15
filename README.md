@@ -1,6 +1,6 @@
 # Adversarial robustness of process fault classifiers: analyzer-calibrated budgets and feasibility bounds (TEP)
 
-Code for the manuscript *Adversarial Robustness of Process Fault Classifiers: Analyzer-Calibrated Budgets and Feasibility Bounds on Tennessee Eastman Composition Data* (Imran, Zaidi, Tran).
+Code for the manuscript *Adversarial Robustness of Process Fault Classifiers: Analyzer-Calibrated Budgets and Feasibility Bounds on Tennessee Eastman Composition Data* 
 
 ## Layout
 - `core/` – data generation (Braatz TEP simulator, commit 9a6c8e5), ILR transform, classifier, PGD attack, training, earlier hyperparameter search (qNEHVI).
