@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+models/
+full/
+*.dat
+results_*.csv
